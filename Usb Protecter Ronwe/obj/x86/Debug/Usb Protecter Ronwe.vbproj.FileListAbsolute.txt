@@ -1,0 +1,37 @@
+C:\Users\Server\Documents\SharpDevelop Projects\Usb Protecter Ronwe\Usb Protecter Ronwe\bin\Debug\Usb Protecter Ronwe.exe
+C:\Users\Server\Documents\SharpDevelop Projects\Usb Protecter Ronwe\Usb Protecter Ronwe\bin\Debug\Usb Protecter Ronwe.pdb
+C:\Users\Server\Documents\SharpDevelop Projects\Usb Protecter Ronwe\Usb Protecter Ronwe\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Server\Documents\SharpDevelop Projects\Usb Protecter Ronwe\Usb Protecter Ronwe\obj\x86\Debug\Usb_Protecter_Ronwe.MainForm.resources
+C:\Users\Server\Documents\SharpDevelop Projects\Usb Protecter Ronwe\Usb Protecter Ronwe\obj\x86\Debug\Usb Protecter Ronwe.vbproj.GenerateResource.Cache
+C:\Users\Server\Documents\SharpDevelop Projects\Usb Protecter Ronwe\Usb Protecter Ronwe\obj\x86\Debug\Usb Protecter Ronwe.exe
+C:\Users\Server\Documents\SharpDevelop Projects\Usb Protecter Ronwe\Usb Protecter Ronwe\obj\x86\Debug\Usb Protecter Ronwe.pdb
+C:\Users\Server\Documents\SharpDevelop Projects\Usb Protecter Ronwe\Usb Protecter Ronwe\obj\x86\Debug\Usb_Protecter_Ronwe.frmhome.resources
+C:\Users\Server\Documents\SharpDevelop Projects\Usb Protecter Ronwe\Usb Protecter Ronwe\obj\x86\Debug\Usb_Protecter_Ronwe.frmCreditos.resources
+C:\Users\Server\Documents\SharpDevelop Projects\Usb Protecter Ronwe\Usb Protecter Ronwe\obj\x86\Debug\Usb_Protecter_Ronwe.frmUsbOff.resources
+C:\Users\Server\Documents\SharpDevelop Projects\Usb Protecter Ronwe\Usb Protecter Ronwe\obj\x86\Debug\Usb_Protecter_Ronwe.frmSoloLectura.resources
+C:\Users\Server\Documents\SharpDevelop Projects\Usb Protecter Ronwe\Usb Protecter Ronwe\obj\x86\Debug\Usb_Protecter_Ronwe.frmNoDisponible.resources
+C:\Users\ServenNet\Desktop\Usb Protecter Ronwe\Usb Protecter Ronwe\bin\Debug\Usb Protecter Ronwe.exe
+C:\Users\ServenNet\Desktop\Usb Protecter Ronwe\Usb Protecter Ronwe\bin\Debug\Usb Protecter Ronwe.pdb
+C:\Users\ServenNet\Desktop\Usb Protecter Ronwe\Usb Protecter Ronwe\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ServenNet\Desktop\Usb Protecter Ronwe\Usb Protecter Ronwe\obj\x86\Debug\Usb_Protecter_Ronwe.frmCreditos.resources
+C:\Users\ServenNet\Desktop\Usb Protecter Ronwe\Usb Protecter Ronwe\obj\x86\Debug\Usb_Protecter_Ronwe.frmhome.resources
+C:\Users\ServenNet\Desktop\Usb Protecter Ronwe\Usb Protecter Ronwe\obj\x86\Debug\Usb_Protecter_Ronwe.frmNoDisponible.resources
+C:\Users\ServenNet\Desktop\Usb Protecter Ronwe\Usb Protecter Ronwe\obj\x86\Debug\Usb_Protecter_Ronwe.frmSoloLectura.resources
+C:\Users\ServenNet\Desktop\Usb Protecter Ronwe\Usb Protecter Ronwe\obj\x86\Debug\Usb_Protecter_Ronwe.frmUsbOff.resources
+C:\Users\ServenNet\Desktop\Usb Protecter Ronwe\Usb Protecter Ronwe\obj\x86\Debug\Usb_Protecter_Ronwe.MainForm.resources
+C:\Users\ServenNet\Desktop\Usb Protecter Ronwe\Usb Protecter Ronwe\obj\x86\Debug\Usb Protecter Ronwe.vbproj.GenerateResource.Cache
+C:\Users\ServenNet\Desktop\Usb Protecter Ronwe\Usb Protecter Ronwe\obj\x86\Debug\Usb Protecter Ronwe.exe
+C:\Users\ServenNet\Desktop\Usb Protecter Ronwe\Usb Protecter Ronwe\obj\x86\Debug\Usb Protecter Ronwe.pdb
+D:\Proyectos\VB\Usb Protecter Ronwe\Usb Protecter Ronwe\bin\Debug\Usb Protecter Ronwe.exe
+D:\Proyectos\VB\Usb Protecter Ronwe\Usb Protecter Ronwe\bin\Debug\Usb Protecter Ronwe.pdb
+D:\Proyectos\VB\Usb Protecter Ronwe\Usb Protecter Ronwe\obj\x86\Debug\Usb Protecter Ronwe.vbproj.AssemblyReference.cache
+D:\Proyectos\VB\Usb Protecter Ronwe\Usb Protecter Ronwe\obj\x86\Debug\Usb_Protecter_Ronwe.frmCreditos.resources
+D:\Proyectos\VB\Usb Protecter Ronwe\Usb Protecter Ronwe\obj\x86\Debug\Usb_Protecter_Ronwe.frmhome.resources
+D:\Proyectos\VB\Usb Protecter Ronwe\Usb Protecter Ronwe\obj\x86\Debug\Usb_Protecter_Ronwe.frmNoDisponible.resources
+D:\Proyectos\VB\Usb Protecter Ronwe\Usb Protecter Ronwe\obj\x86\Debug\Usb_Protecter_Ronwe.frmSoloLectura.resources
+D:\Proyectos\VB\Usb Protecter Ronwe\Usb Protecter Ronwe\obj\x86\Debug\Usb_Protecter_Ronwe.frmUsbOff.resources
+D:\Proyectos\VB\Usb Protecter Ronwe\Usb Protecter Ronwe\obj\x86\Debug\Usb_Protecter_Ronwe.MainForm.resources
+D:\Proyectos\VB\Usb Protecter Ronwe\Usb Protecter Ronwe\obj\x86\Debug\Usb Protecter Ronwe.vbproj.GenerateResource.cache
+D:\Proyectos\VB\Usb Protecter Ronwe\Usb Protecter Ronwe\obj\x86\Debug\Usb Protecter Ronwe.vbproj.CoreCompileInputs.cache
+D:\Proyectos\VB\Usb Protecter Ronwe\Usb Protecter Ronwe\obj\x86\Debug\Usb Protecter Ronwe.exe
+D:\Proyectos\VB\Usb Protecter Ronwe\Usb Protecter Ronwe\obj\x86\Debug\Usb Protecter Ronwe.pdb
